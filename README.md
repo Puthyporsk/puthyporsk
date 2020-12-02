@@ -1,9 +1,14 @@
-### Hi there 👋
+### Welcome to Puthypor Sengkeo's github page 👋
 
+International student from Cambodia. Spent 2 years in Cascadia Community College, Bothell, WA. Graduated with an AA in Integrated Studies DTA.
+
+En route to graduating from Washington State University, Pullman with a BS in Computer Science and a minor in Mathematics ✨✨
+
+Actively looking for a full-time job that accepts OPT and/or willing to sponsor me after my OPT expires ⚡⚡
+
+My personal website: https://puthyporsk.github.io/puthyporsk/
 <!--
 **Puthyporsk/puthyporsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
