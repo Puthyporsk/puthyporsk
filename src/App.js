@@ -64,7 +64,7 @@ class App extends React.Component{
                     <div id="corner-tl" className="corner"></div>
                     <div id="corner-tr" className="corner"></div>
                     <h3>Me</h3>
-                    <p>Cambodian. Borned and Raised.©</p>
+                    <p>Tenacity trumps everything.</p>
                     <p>Cascadia Community College, Bothell 18'</p>
                     <p>Washington State University, Pullman 21'</p>
                     <div id="corner-br" className="corner"></div>
@@ -81,13 +81,13 @@ class App extends React.Component{
             <div className="about-wrapper">
               <div className="about-me">
                 <h4>More about me</h4>
-                <p>I graduated highschool, flew ~7639 miles away from home, started college at 16.</p>
-                <p>Graduated college at 18.</p>
-                <p>Graduating university at 21.</p>
-                <p>My parents and sister are in Cambodia, and I can't wait to be reunited with them in the near future.</p>
+                <p>I enojy playing chess, ping pong, frisbee, and volleyball.</p>
+                <p>I always strive to be the best at everything I do.</p>
+                <p>Website and application development brings me joy.</p>
+                <p>Aspiring Software Enginner.</p>
 
                 <div style={{display: 'flex'}}>
-                <p>Want to see my professional side? Here:&nbsp; 
+                <p>Here's my Resume:&nbsp; 
                 <a target="_blank" href="Puthypor.Sengkeo-CS-Resume.pdf" className="resume">Résumé</a></p>
                 </div>
               </div>
