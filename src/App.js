@@ -64,7 +64,7 @@ class App extends React.Component{
                     <div id="corner-tl" className="corner"></div>
                     <div id="corner-tr" className="corner"></div>
                     <h3>Me</h3>
-                    <p>Cambodian. Borned and Raised.©</p>
+                    <p>Tenacity trumps everything.</p>
                     <p>Cascadia Community College, Bothell 18'</p>
                     <p>Washington State University, Pullman 21'</p>
                     <div id="corner-br" className="corner"></div>
