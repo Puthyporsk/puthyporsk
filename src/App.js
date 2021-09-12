@@ -82,13 +82,14 @@ class App extends React.Component{
               <div className="about-me">
                 <h4>More about me</h4>
                 <p>I graduated highschool, flew ~7639 miles away from home, started college at 16.</p>
-                <p>Graduated college at 18.</p>
-                <p>Graduating university at 21.</p>
+                <p>Graduated from college at 18.</p>
+                <p>Graduated from university at 21.</p>
+                <p>Currently a Software Engineer at HiLine Eng., in Richland, WA.</p>
                 <p>My parents and sister are in Cambodia, and I can't wait to be reunited with them in the near future.</p>
 
                 <div style={{display: 'flex'}}>
                 <p>Want to see my professional side? Here:&nbsp; 
-                <a target="_blank" href="Puthypor.Sengkeo-CS-Resume.pdf" className="resume">Résumé</a></p>
+                <a target="_blank" href="Puthypor.Sengkeo.Resume.pdf" className="resume">Résumé</a></p>
                 </div>
               </div>
 
