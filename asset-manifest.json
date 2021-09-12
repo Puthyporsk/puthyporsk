@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/puthyporsk/static/css/main.9bef3eea.chunk.css",
-    "main.js": "/puthyporsk/static/js/main.1e2c0562.chunk.js",
-    "main.js.map": "/puthyporsk/static/js/main.1e2c0562.chunk.js.map",
+    "main.js": "/puthyporsk/static/js/main.6706f903.chunk.js",
+    "main.js.map": "/puthyporsk/static/js/main.6706f903.chunk.js.map",
     "runtime-main.js": "/puthyporsk/static/js/runtime-main.7e4b98ef.js",
     "runtime-main.js.map": "/puthyporsk/static/js/runtime-main.7e4b98ef.js.map",
     "static/js/2.2dbf6288.chunk.js": "/puthyporsk/static/js/2.2dbf6288.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e4b98ef.js",
     "static/js/2.2dbf6288.chunk.js",
     "static/css/main.9bef3eea.chunk.css",
-    "static/js/main.1e2c0562.chunk.js"
+    "static/js/main.6706f903.chunk.js"
   ]
 }
