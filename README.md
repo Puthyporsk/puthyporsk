@@ -1,10 +1,6 @@
 ### Welcome to Puthypor Sengkeo's github page 👋
 
-International student from Cambodia. Spent 2 years in Cascadia Community College, Bothell, WA. Graduated with an AA in Integrated Studies DTA.
-
-En route to graduating from Washington State University, Pullman with a BS in Computer Science and a minor in Mathematics ✨✨
-
-Actively looking for a full-time job that accepts OPT and/or willing to sponsor me after my OPT expires ⚡⚡
+My objective as a Software Engineer is to leverage my technical expertise and enthusiasm for software development to contribute to a dynamic and innovative team. I am eager to apply my problem-solving skills, learn from experienced professionals, and participate in the complete software development lifecycle. I am committed to enhancing my programming abilities, embracing new technologies, and delivering high-quality, scalable software solutions that address real-world challenges
 
 My personal website: https://puthyporsk.github.io/puthyporsk/
 <!--
