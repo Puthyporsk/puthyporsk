@@ -2,6 +2,13 @@ import React from 'react';
 import axios from 'axios';
 import { Container, Row } from 'react-bootstrap';
 import './App.css';
+import frisbee from './images/frisbee.png';
+import gaming from './images/gaming.png';
+import ai from './images/ai.png';
+import webdev from './images/logo192.png';
+import ss from './images/ss.jpg';
+import pfp from './images/pfp.jpg';
+import resume from './images/resume.pdf';
 
 class App extends React.Component{
 
@@ -56,7 +63,7 @@ class App extends React.Component{
 
             <div className="intro-wrapper">
               <div className="left-column">
-                <img id="profile_pic" src="pfp.jpg" />
+                <img id="profile_pic" src={pfp} />
               </div>
       
               <div className="right-column" style={{textAlign: 'center'}}>
@@ -89,16 +96,16 @@ class App extends React.Component{
 
                 <div style={{display: 'flex'}}>
                 <p>Want to see my professional side? Here:&nbsp; 
-                <a target="_blank" href="Puthypor.Sengkeo.Resume.pdf" className="resume">Résumé</a></p>
+                <a target="_blank" href={resume} className="resume">Résumé</a></p>
                 </div>
               </div>
 
               
               <div>
                 <h1>Social Links</h1>
-                <a href="https://www.linkedin.com/in/puthyporsengkeo/" className="fa fa-linkedin"></a>
-                <a href="https://github.com/Puthyporsk" className="fa fa-github"></a>
-                <a href="mailto:sengkeoputhypor@gmail.com" className="fa fa-at"></a>
+                <a target="_blank" href="https://www.linkedin.com/in/puthyporsengkeo/" className="fa fa-linkedin"></a>
+                <a target="_blank" href="https://github.com/Puthyporsk" className="fa fa-github"></a>
+                <a target="_blank" href="mailto:sengkeoputhypor@gmail.com" className="fa fa-at"></a>
               </div>
             </div>
 
@@ -112,22 +119,22 @@ class App extends React.Component{
             <div className="post-wrapper">
               <div>
                 <div className="post">
-                  <img className="thumbnail" src="ss.jpg" />
+                  <img className="thumbnail" src={ss} />
                   <div className="post-preview">
                     <h6 className="post-title">Speedgolf App</h6>
                     <p className="post-intro">Project from WSU CptS 489 taught by Professor Chris Hundhausen.</p>
-                  <a href="https://ssplay.bfapp.org/">https://ssplay.bfapp.org/</a>
+                  <a target="_blank" href="https://github.com/Puthyporsk/aiengine-spokanecity">Link to Github Repository</a>
                   </div>
                 </div>
               </div>
 
               <div>
                 <div className="post">
-                  <img className="thumbnail" src="ai.png" />
+                  <img className="thumbnail" src={ai} />
                   <div className="post-preview">
                     <h6 className="post-title">AIEngine-SpokaneCity</h6>
                     <p className="post-intro">Project from WSU CptS 421 [CAPS] taught by Professor Ananth Jillepalli. Client Laz Martinez.</p>
-                  <a href="https://github.com/Puthyporsk/aiengine-spokanecity">https://github.com/Puthyporsk/aiengine-spokanecity</a>
+                  <a target="_blank" href="https://github.com/Puthyporsk/aiengine-spokanecity">Link to Github Repository</a>
                   </div>
                 </div>
               </div>
@@ -140,7 +147,7 @@ class App extends React.Component{
           <Container fluid={true}>
             <Row noGutters className="hobby">
               <div style={{display: 'flex'}}>
-                <img className="hobby-picture" src="gaming.png"></img>
+                <img className="hobby-picture" src={gaming}></img>
                 <h3>Gaming
                 <h5>I enjoy gaming during my down time.<br></br>
                 It helps me relax and connect me with my friends.<br></br>
@@ -149,7 +156,7 @@ class App extends React.Component{
               </div>
 
               <div style={{display: 'flex'}}>
-                <img className="hobby-picture" src="frisbee.png"></img>
+                <img className="hobby-picture" src={frisbee}></img>
                 <h3>Frisbee
                 <h5>
                 I used to play Frisbee in highschool.<br></br>
@@ -159,7 +166,7 @@ class App extends React.Component{
               </div>
 
               <div style={{display: 'flex'}}>
-                <img className="hobby-picture" src="logo192.png"></img>
+                <img className="hobby-picture" src={webdev}></img>
                 <h3>Web Development
                 <h5>
                 I like to play around with web design during my productive down time.<br></br>
