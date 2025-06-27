@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/puthyporsk/static/css/main.976b2b5c.css",
-    "main.js": "/puthyporsk/static/js/main.086f0bc5.js",
+    "main.js": "/puthyporsk/static/js/main.7b734622.js",
+    "static/media/ai.png": "/puthyporsk/static/media/ai.ab01c21a8ea29ab895bd.png",
+    "static/media/ss.jpg": "/puthyporsk/static/media/ss.cf0b80662c2c63458e47.jpg",
+    "static/media/pfp.jpg": "/puthyporsk/static/media/pfp.0f600409f52cd3023e3b.jpg",
+    "static/media/gaming.png": "/puthyporsk/static/media/gaming.710148010c64a7ffe5c7.png",
+    "static/media/resume.pdf": "/puthyporsk/static/media/resume.4d55fb886c61615382fc.pdf",
+    "static/media/frisbee.png": "/puthyporsk/static/media/frisbee.4fa1fcd3e52256385111.png",
     "index.html": "/puthyporsk/index.html",
     "main.976b2b5c.css.map": "/puthyporsk/static/css/main.976b2b5c.css.map",
-    "main.086f0bc5.js.map": "/puthyporsk/static/js/main.086f0bc5.js.map"
+    "main.7b734622.js.map": "/puthyporsk/static/js/main.7b734622.js.map"
   },
   "entrypoints": [
     "static/css/main.976b2b5c.css",
-    "static/js/main.086f0bc5.js"
+    "static/js/main.7b734622.js"
   ]
 }
