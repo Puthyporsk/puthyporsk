@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/puthyporsk/static/css/main.9bef3eea.chunk.css",
-    "main.js": "/puthyporsk/static/js/main.6706f903.chunk.js",
-    "main.js.map": "/puthyporsk/static/js/main.6706f903.chunk.js.map",
-    "runtime-main.js": "/puthyporsk/static/js/runtime-main.7e4b98ef.js",
-    "runtime-main.js.map": "/puthyporsk/static/js/runtime-main.7e4b98ef.js.map",
-    "static/js/2.2dbf6288.chunk.js": "/puthyporsk/static/js/2.2dbf6288.chunk.js",
-    "static/js/2.2dbf6288.chunk.js.map": "/puthyporsk/static/js/2.2dbf6288.chunk.js.map",
-    "static/js/3.864e1073.chunk.js": "/puthyporsk/static/js/3.864e1073.chunk.js",
-    "static/js/3.864e1073.chunk.js.map": "/puthyporsk/static/js/3.864e1073.chunk.js.map",
+    "main.css": "/puthyporsk/static/css/main.976b2b5c.css",
+    "main.js": "/puthyporsk/static/js/main.086f0bc5.js",
     "index.html": "/puthyporsk/index.html",
-    "static/css/main.9bef3eea.chunk.css.map": "/puthyporsk/static/css/main.9bef3eea.chunk.css.map",
-    "static/js/2.2dbf6288.chunk.js.LICENSE.txt": "/puthyporsk/static/js/2.2dbf6288.chunk.js.LICENSE.txt"
+    "main.976b2b5c.css.map": "/puthyporsk/static/css/main.976b2b5c.css.map",
+    "main.086f0bc5.js.map": "/puthyporsk/static/js/main.086f0bc5.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e4b98ef.js",
-    "static/js/2.2dbf6288.chunk.js",
-    "static/css/main.9bef3eea.chunk.css",
-    "static/js/main.6706f903.chunk.js"
+    "static/css/main.976b2b5c.css",
+    "static/js/main.086f0bc5.js"
   ]
 }
