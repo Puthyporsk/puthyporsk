@@ -8,6 +8,9 @@ import ai from './images/ai.png';
 import webdev from './images/logo192.png';
 import ss from './images/ss.jpg';
 import pfp from './images/pfp.jpg';
+import cla from './images/cla.png';
+import architect from './images/architect.png';
+import sar from './images/sarsam.png';
 import resume from './images/resume.pdf';
 
 class App extends React.Component{
@@ -74,6 +77,7 @@ class App extends React.Component{
                     <p>Tenacity trumps everything.</p>
                     <p>Cascadia Community College, Bothell 18'</p>
                     <p>Washington State University, Pullman 21'</p>
+                    <p>Simon Fraser University, Burnaby 26'</p>
                     <div id="corner-br" className="corner"></div>
                     <div id="corner-bl" className="corner"></div>
                   </div>
@@ -89,10 +93,10 @@ class App extends React.Component{
               <div className="about-me">
                 <h4>More about me</h4>
                 <p>I graduated highschool, flew ~7639 miles away from home, started college at 16.</p>
-                <p>Graduated from college at 18.</p>
-                <p>Graduated from university at 21.</p>
-                <p>Currently a Software Engineer at HiLine Eng., in Richland, WA.</p>
-                <p>My parents and sister are in Cambodia, and I can't wait to be reunited with them in the near future.</p>
+                <p>Obtained my Associates at 18.</p>
+                <p>Obtained my Bachelors at 21.</p>
+                <p>Worked as a Software Engineer at HiLine Eng., in Richland, WA.</p>
+                <p>I will be obtaining my Masters at 26.</p>
 
                 <div style={{display: 'flex'}}>
                 <p>Want to see my professional side? Here:&nbsp; 
@@ -117,13 +121,47 @@ class App extends React.Component{
             <h3 style={{textAlign: 'center'}}>Projects</h3>
 
             <div className="post-wrapper">
+
+              <div>
+                <div className="post">
+                  <img className="thumbnail" src={cla} />
+                  <div className="post-preview">
+                    <h6 className="post-title">Cherrywood Book Keeping Record</h6>
+                    <p className="post-intro">Personal project for Cherrywood Learning Academy. Development of a website to track and manage books and items rentals.</p>
+                  <a target="_blank" href="http://3.133.82.149:3000/">Link to Website</a>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <div className="post">
+                  <img className="thumbnail" src={sar} />
+                  <div className="post-preview">
+                    <h6 className="post-title">SARSAM: SAR Water Segmentation, Improving Segmentation Accuracy on Noisy SAR Satellite Images</h6>
+                    <p className="post-intro">Project for CMPT 743. Fine-tuned SAM2 model to improve segmentation accuracy on noisy SAR satellite images.</p>
+                  <a target="_blank" href="https://github.com/kyon317/SARSAM">Link to Github Repository</a>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <div className="post">
+                  <img className="thumbnail" src={architect} />
+                  <div className="post-preview">
+                    <h6 className="post-title">ArchiTech: Architectural Style Recognition and Feature Detection</h6>
+                    <p className="post-intro">Project for CMPT 742. Implemented CNN-based object detection model to do features detection on architectural styles.</p>
+                  <a target="_blank" href="https://github.com/JillFerence/ArchiTech">Link to Github Repository</a>
+                  </div>
+                </div>
+              </div>
+
               <div>
                 <div className="post">
                   <img className="thumbnail" src={ss} />
                   <div className="post-preview">
                     <h6 className="post-title">Speedgolf App</h6>
                     <p className="post-intro">Project from WSU CptS 489 taught by Professor Chris Hundhausen.</p>
-                  <a target="_blank" href="https://github.com/Puthyporsk/aiengine-spokanecity">Link to Github Repository</a>
+                  <a target="_blank" href="https://github.com/Puthyporsk/SpeedGolfWebsite">Link to Github Repository</a>
                   </div>
                 </div>
               </div>
