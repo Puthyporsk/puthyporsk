@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/puthyporsk/static/css/main.976b2b5c.css",
-    "main.js": "/puthyporsk/static/js/main.62adf5a8.js",
+    "main.js": "/puthyporsk/static/js/main.3fe96fc9.js",
     "static/media/sarsam.png": "/puthyporsk/static/media/sarsam.ea7b2dbfca67140bf831.png",
     "static/media/ai.png": "/puthyporsk/static/media/ai.ab01c21a8ea29ab895bd.png",
     "static/media/ss.jpg": "/puthyporsk/static/media/ss.cf0b80662c2c63458e47.jpg",
     "static/media/architect.png": "/puthyporsk/static/media/architect.56a973172c9261e1c17d.png",
     "static/media/pfp.jpg": "/puthyporsk/static/media/pfp.0f600409f52cd3023e3b.jpg",
     "static/media/cla.png": "/puthyporsk/static/media/cla.76255e13a08146d1d51d.png",
+    "static/media/resume.pdf": "/puthyporsk/static/media/resume.b74f7dc417795f29b9f9.pdf",
     "static/media/gaming.png": "/puthyporsk/static/media/gaming.710148010c64a7ffe5c7.png",
-    "static/media/resume.pdf": "/puthyporsk/static/media/resume.4d55fb886c61615382fc.pdf",
     "static/media/frisbee.png": "/puthyporsk/static/media/frisbee.4fa1fcd3e52256385111.png",
     "index.html": "/puthyporsk/index.html",
     "main.976b2b5c.css.map": "/puthyporsk/static/css/main.976b2b5c.css.map",
-    "main.62adf5a8.js.map": "/puthyporsk/static/js/main.62adf5a8.js.map"
+    "main.3fe96fc9.js.map": "/puthyporsk/static/js/main.3fe96fc9.js.map"
   },
   "entrypoints": [
     "static/css/main.976b2b5c.css",
-    "static/js/main.62adf5a8.js"
+    "static/js/main.3fe96fc9.js"
   ]
 }
