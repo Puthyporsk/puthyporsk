@@ -128,7 +128,7 @@ class App extends React.Component{
                   <div className="post-preview">
                     <h6 className="post-title">Cherrywood Book Keeping Record</h6>
                     <p className="post-intro">Personal project for Cherrywood Learning Academy. Development of a website to track and manage books and items rentals.</p>
-                  <a target="_blank" href="http://3.133.82.149:3000/">Link to Website</a>
+                  <a target="_blank" href="http://3.142.14.248:3000/">Link to Website</a>
                   </div>
                 </div>
               </div>
