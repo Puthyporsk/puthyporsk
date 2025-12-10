@@ -7,6 +7,7 @@ import gaming from './images/gaming.png';
 import ai from './images/ai.png';
 import webdev from './images/logo192.png';
 import ss from './images/ss.jpg';
+import sfu from './images/sfu.png';
 import pfp from './images/pfp.jpg';
 import cla from './images/cla.png';
 import architect from './images/architect.png';
@@ -121,14 +122,22 @@ class App extends React.Component{
             <h3 style={{textAlign: 'center'}}>Projects</h3>
 
             <div className="post-wrapper">
-
+              <div>
+                <div className="post">
+                  <img className="thumbnail" src={sfu} />
+                  <div className="post-preview">
+                    <h6 className="post-title">Leveraging Reinforcement Learning in Multi-Channel Speech Enhancement</h6>
+                    <p className="post-intro">Project for CMPT 729. Using Reinforcement Learning to enhance speech audios.</p>
+                  </div>
+                </div>
+              </div>
               <div>
                 <div className="post">
                   <img className="thumbnail" src={cla} />
                   <div className="post-preview">
                     <h6 className="post-title">Cherrywood Book Keeping Record</h6>
                     <p className="post-intro">Personal project for Cherrywood Learning Academy. Development of a website to track and manage books and items rentals.</p>
-                  <a target="_blank" href="http://3.142.14.248:3000/">Link to Website</a>
+                  <a target="_blank" href="https://github.com/Puthyporsk/book-rental-record-test">Link to Project</a>
                   </div>
                 </div>
               </div>
