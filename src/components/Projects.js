@@ -33,7 +33,8 @@ const projects = [
     image: cla,
     title: 'Cherrywood Book Keeping Record',
     intro: 'Personal project for Cherrywood Learning Academy. Development of a website to track and manage books and items rentals.',
-    link: 'https://github.com/Puthyporsk/book-rental-record-test',
+    link: 'https://puthyporsk.github.io/book-rental-record-test/',
+    linkText: 'Visit Website',
   },
   {
     image: sar,
