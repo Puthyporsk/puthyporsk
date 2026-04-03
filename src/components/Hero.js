@@ -1,5 +1,5 @@
 import React from 'react';
-import pfp from '../images/pfp.jpg';
+import pfp from '../images/pfp.png';
 
 function Hero() {
   return (

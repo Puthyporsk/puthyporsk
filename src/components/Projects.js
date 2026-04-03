@@ -27,7 +27,7 @@ const projects = [
     image: sfu,
     title: 'Leveraging Reinforcement Learning in Multi-Channel Speech Enhancement',
     intro: 'Project for CMPT 729. Using Reinforcement Learning to enhance speech audios.',
-    link: null,
+    link: 'https://github.com/Puthyporsk/Speech-Enhancement-Reinforcement-Learning',
   },
   {
     image: cla,
