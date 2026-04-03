@@ -8,17 +8,16 @@ function About() {
         <div className="about-wrapper">
           <div className="about-me">
             <h4>More about me</h4>
-            <p>I graduated highschool, flew ~7639 miles away from home, started college at 16.</p>
-            <p>Obtained my Associates at 18.</p>
-            <p>Obtained my Bachelors at 21.</p>
-            <p>Worked as a Software Engineer at HiLine Eng., in Richland, WA.</p>
-            <p>I will be obtaining my Masters at 26.</p>
+            <p>I'm a software engineer and grad student at SFU studying visual computing. Before going back to school, I spent about two and a half years at HiLine Engineering building full stack apps and shipping products from scratch. I got to work on a bit of everything, from frontend to backend to deployment.</p>
+            <p>Now my focus has shifted toward machine learning and computer vision. I've been working on projects like benchmarking image generation models, improving satellite image segmentation, and using reinforcement learning to clean up messy audio. I like the kind of work that sits somewhere between research and actually building things.</p>
+            <p>I also teach on the side. I'm a TA for Discrete Math at SFU and an instructor at a local learning academy. Turns out, explaining things to other people is one of the best ways to actually understand them yourself.</p>
+            <p>Always happy to chat if something here caught your eye.</p>
 
             <div style={{ display: 'flex' }}>
               <p>
-                Want to see my professional side? Here:&nbsp;
+                Here is my Résumé:&nbsp;
                 <a target="_blank" rel="noopener noreferrer" href={resume} className="resume">
-                  Résumé
+                  Puthypor-Sengkeo-Resume.pdf
                 </a>
               </p>
             </div>

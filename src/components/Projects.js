@@ -5,17 +5,19 @@ import sar from '../images/sarsam.png';
 import architect from '../images/architect.png';
 import ss from '../images/ss.jpg';
 import ai from '../images/ai.png';
+import zcor from '../images/zcor.png';
+import t2i from '../images/t2i.png';
 
 const projects = [
   {
-    image: sfu,
+    image: zcor,
     title: 'ZCOR: Full-Stack Workforce Management SaaS Platform',
     intro: 'Capstone project at SFU. Built a full-stack SaaS workforce platform with React, Node.js, Express, and MongoDB — featuring time tracking, scheduling, leave management, payroll, and inventory.',
     link: 'https://www.zcor.org',
     linkText: 'Visit Website',
   },
   {
-    image: sfu,
+    image: t2i,
     title: 'Text-to-Image Generation Benchmark',
     intro: 'Designed a benchmark comparing Imagen 4 and GPT Image 1 across 40 structured prompts. Built a multi-signal evaluation pipeline with a quantized VLM judge, OCR, fuzzy matching, and a blind human preference UI.',
     link: 'https://text-to-image-generation-benchmark.streamlit.app',
